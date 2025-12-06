@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/assets/banner2.png" alt="WriteWiseAI Banner" width="100%" />
+  <img src="frontend/src/assets/banner2.png" alt="WriteWiseAI Banner" width="100%" />
 </p>
 
 <h1 align="center">🧠 WriteWiseAI — Multi-Agent, Web-Aware Content Generation Engine</h1>
@@ -40,7 +40,7 @@ Built for **creators, marketers, founders, and developers** who want **research-
 ## 🎨 UI Preview
 
 <p align="center">
-  <img src="src/assets/preview2.png" alt="WriteWiseAI UI Preview" width="100%" />
+  <img src="frontend/src/assets/preview2.png" alt="WriteWiseAI UI Preview" width="100%" />
 </p>
 
 ---
