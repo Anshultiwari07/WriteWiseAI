@@ -1,0 +1,27 @@
+:root {
+  --accent: #ff8c42;
+  --accent-glow: rgba(255, 140, 66, 0.5);
+  --bg-dark: #0b0b0c;
+  --bg-card: rgba(255, 255, 255, 0.05);
+  --border-glass: rgba(255, 255, 255, 0.08);
+  --text-primary: #ffffff;
+  --text-secondary: #bbbbbb;
+  --glass-blur: blur(14px);
+}
+
+body {
+  margin: 0;
+  background: var(--bg-dark);
+  color: var(--text-primary);
+  font-family: system-ui, sans-serif;
+  overflow: hidden;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background: #333;
+  border-radius: 6px;
+}
